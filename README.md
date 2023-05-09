@@ -13,4 +13,4 @@
   * 两个LED：PB5,PE5
   * LCD背光：PB0
   * 按键：PE0,PE4,PA0（未定义功能）
-* 软件II
+* 软件IIC
