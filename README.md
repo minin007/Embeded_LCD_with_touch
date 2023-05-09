@@ -2,7 +2,7 @@
 有STM32控制的TFLCD屏显示，单点触控（之后可能修改）
 ## 硬件部分
 * 控制芯片STM32F103ZET6
-* TFLCD：NE35510
+* TFLCD：NT35510
 * 触摸板：gt911（电容）
 ## 软件部分
 * STM32CubeMX
